@@ -1,4 +1,6 @@
-|> ignore
+> But of course, we are programmers, and we are smarter than runners, apparently, because we know how to fix that problem, right? We just fire the starting pistol every hundred yards and call it a new sprint.
+> - Rich Hickey
+
 
 <!--
 **iruYo/iruYo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
